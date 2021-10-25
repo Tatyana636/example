@@ -5,3 +5,4 @@ git push --set-upstream origin tatyan
 
 git add file.txt
 git commit -m "text"
+git push
