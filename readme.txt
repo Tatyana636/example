@@ -17,3 +17,7 @@ git pull
 git merge tatyan
 git checkout tatyan
 
+
+
+Факт дня:
+Антон любит накатывать на сервер и на грудь
